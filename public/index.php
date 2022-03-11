@@ -5,7 +5,6 @@ use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
 echo "manolo-benifaionero oh";
-echo "palotes";
 /*
 |--------------------------------------------------------------------------
 | Check If The Application Is Under Maintenance
